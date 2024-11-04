@@ -1,6 +1,7 @@
 /*Di Fei Lin
 Lab 8
 11/4/24
+part 2 
 */
 #include <iostream>
 #include <iomanip>

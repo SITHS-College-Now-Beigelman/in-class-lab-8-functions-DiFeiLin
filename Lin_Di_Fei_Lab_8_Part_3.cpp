@@ -1,6 +1,7 @@
 /*Di Fei Lin
 Lab 8
 11/4/24
+part 3 
 */
 #include <iostream>
 #include <iomanip>
@@ -10,7 +11,7 @@ Lab 8
 
 using namespace std;
 
-double getSum(double a, double b, double c);//function given the three inputs
+double getSum(double a, double b, double c);//function declaration
 
 int main(){
     double num1, num2, num3;//identify variables 
@@ -21,6 +22,8 @@ int main(){
 
     return 0;//ends the code
 }
-double getSum(double a, double b, double c){
+double getSum(double a, double b, double c){//function given the three inputs
     return a+b+c;//returns the result
 }
+/*Enter three numbers:2 3 4
+The sum of the three numbers:9*/

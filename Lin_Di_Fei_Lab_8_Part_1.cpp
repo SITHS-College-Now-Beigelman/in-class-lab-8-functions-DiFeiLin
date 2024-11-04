@@ -1,6 +1,7 @@
 /*Di Fei Lin
 Lab 8
 11/4/24
+part 1 
 */
 #include <iostream>
 #include <iomanip>
@@ -18,3 +19,7 @@ int main(){
     cout<<"floor:"<<floor(num);//floor of the number
     return 0;
 }
+/*9
+number raised to the power of 4:6561
+square root:3
+floor:9*/
